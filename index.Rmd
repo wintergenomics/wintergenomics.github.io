@@ -10,6 +10,8 @@ links:
     url: "https://twitter.com/wintergenomics"
   - label: Instagram
     url: "https://www.instagram.com/wintergenomics/"
+  - label: Youtube
+    url: "https://www.youtube.com/channel/UCAE_Don78MR0bKKg8tLnZVA"
   - label: LinkedIn
     url: "https://www.linkedin.com/company/66594421/"
   - label: Email
