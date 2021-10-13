@@ -1,0 +1,23 @@
+---
+title: "Winter Genomics"
+image: "wgyt.jpg"
+links:
+  - label: Página web 
+    url: "https://www.wintergenomics.com/"
+  - label: Facebook 
+    url: "https://www.facebook.com/wintergenomics"
+  - label: Twitter
+    url: "https://twitter.com/wintergenomics"
+  - label: Instagram
+    url: "https://www.instagram.com/wintergenomics/"
+  - label: LinkedIn
+    url: "https://www.linkedin.com/company/66594421/"
+  - label: Email
+    url: "mailto:hola@wintergenomics.com"
+output:
+  postcards::jolla
+---
+ 
+Somos una empresa mexicana con más de 10 años de experiencia que proporciona soluciones de bioinformática dirigidas a la iniciativa privada, institutos de salud, instituciones académicas y gubernamentales.
+
+Somos una división de Winter México, pioneros en brindar servicios de bioinformática de alta calidad en América Latina. La experiencia de nuestro equipo multidisciplinario se centra en el manejo de datos genómicos, con un enfoque en la secuenciación y el análisis de datos de nueva generación.
