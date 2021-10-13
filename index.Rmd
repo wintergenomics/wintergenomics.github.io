@@ -1,6 +1,6 @@
 ---
 title: "Winter Genomics"
-image: "wgyt.jpg"
+image: "wgyt.png"
 links:
   - label: Página web 
     url: "https://www.wintergenomics.com/"
